@@ -1,0 +1,16 @@
+﻿#datePicker {
+    display: none;
+    position: absolute;
+    border: solid 2px black;
+    background-color: white;
+}
+
+.content {
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    }
+html {
+    background-color: silver;
+}
